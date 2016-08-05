@@ -1,0 +1,11 @@
+default-branch: develop
+
+resources:
+  - name: Kevin
+  - name: Functional
+
+apps:
+  - name: gutenberg
+    url: gutenberg.dev
+  - name: lenny
+    url: lenny.dev
